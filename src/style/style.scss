@@ -792,3 +792,152 @@ letter-spacing: -0.03em;
 /* 75% */
 color: #58506B;
 }
+
+#pts_{
+    position: absolute;
+width: 271px;
+height: 25px;
+left: 24px;
+top: 1112px;
+
+/* Subtitle 2 */
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* 75% */
+color: #58506B;
+}
+
+#iface{
+    position: absolute;
+width: 332px;
+height: 221px;
+margin-left: 24px;
+margin-top: -158.5px;
+border-radius: 20px;
+}
+
+#maquet{
+    
+width: 332px;
+height: 122px;
+margin-left: 24px;
+margin-top: 530px;
+
+background: linear-gradient(180deg, rgba(44, 82, 216, 0) 0%, rgba(44, 82, 216, 0.4) 100%), #54D1ED;
+background-blend-mode: multiply, normal;
+border-radius: 20px;
+opacity: 1;
+}
+
+#paragraph10{
+    position: absolute;
+    width: 190px;
+    height: 33px;
+    margin-left: 24px;
+    margin-top: 40px;
+    
+    /* Title 2 */
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    
+    /* White */
+    color: #FFFFFF;
+}
+
+#paragraph11{
+    position: absolute;
+    width: 287px;
+    height: 32px;
+    margin-left: 24px;
+    margin-top: 75px;
+    
+    /* Caption 1 */
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.03em;
+    
+    /* White */
+    color: #FFFFFF;
+}
+
+#cont_cir{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-left: 24px;
+    margin-bottom:10px ;
+}
+
+#cir1{
+    
+    position: static;
+    width: 10px;
+    height: 10px;
+    margin-right: 8px;
+    margin-top: 5px;
+    margin-left: 16px;
+    border-radius: 50%;
+    background: linear-gradient(180deg, rgba(44, 82, 216, 0) 0%, rgba(44, 82, 216, 0.4) 100%), #54D1ED;
+    background-blend-mode: multiply, normal;
+    
+    /* Inside Auto Layout */
+    
+}
+
+#cir2{
+    
+    
+    width: 10px;
+    height: 10px;
+    margin-right: 8px;
+    margin-top: 5px;
+    border-radius: 50%;
+    /* Primary Soft */
+    background: #D7C7FF;
+    
+    /* Inside Auto Layout */
+    
+}
+
+#cir3{
+    
+    
+width: 10px;
+height: 10px;
+margin-right: 8px;
+margin-top: 5px;
+border-radius: 50%;
+/* Primary Soft */
+background: #D7C7FF;
+
+
+}
+
+#play{
+    position: absolute;
+left: 170px;
+
+top: 1240px;
+
+}
