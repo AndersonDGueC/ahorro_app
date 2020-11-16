@@ -1,17 +1,11 @@
 import React from "react"
 import Title_name from './components/header/Title_name'
-import User_balance from './components/body/User_balance'
-import Metas from './components/body/Metas'
-import Portafolio from './components/body/Portafolio'
-import Ahorro_pts from './components/body/Ahorro_pt'
+import Body_p from './components/body/Body_p'
 function App() {
   return (
     <div className="App">
         <Title_name/>
-        <User_balance/>
-        <Metas/>
-        <Portafolio/>
-        <Ahorro_pts/>
+        <Body_p/>
     </div>
   );
 }

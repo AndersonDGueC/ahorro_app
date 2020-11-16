@@ -25,7 +25,9 @@ return (
         <div id="balan_inver" className="col">
             $1.600.000
         </div>
+        <div id="dv1">
 
+        </div>
         </div>
         <div className="row">
         <div id="rendi" className="col">

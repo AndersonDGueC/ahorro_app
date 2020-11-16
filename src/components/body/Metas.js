@@ -30,6 +30,9 @@ return(
             <img id="palm" src={palmera} alt="palmera"></img>
         </figure>
         <p id="paragraph4">Viaje a  Islas Canarias</p>
+        <div className="dv2">
+
+        </div>
         <div className="container-fluid">
         <div className="row">
         <div id="sec_porcen" className="col">
@@ -49,6 +52,9 @@ return(
             <img id="compu" src={computador} alt='computador'></img>
         </figure>
         <p id="paragraph5">Macbook Pro</p>
+        <div className="dv2">
+
+        </div>
         <div className="container-fluid">
         <div className="row">
         <div id="sec2_porcen" className="col">
