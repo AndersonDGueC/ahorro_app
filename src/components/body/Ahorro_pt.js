@@ -7,7 +7,7 @@ import manos from './images/IMG4.png'
 import tarjeta from './images/IMG5.png'
 const Ahorro_pts = () =>{
 return(
-    <section>
+    <section id="ah_sec">
         <div id="pts_">
             Los P*t@s del ahorro
             </div>

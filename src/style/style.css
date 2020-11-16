@@ -1,3 +1,7 @@
+body {
+  height: 1930px;
+}
+
 #face_start {
   width: 332px;
   height: 230px;
@@ -1430,7 +1434,7 @@
 #add {
   position: absolute;
   margin-left: 163px;
-  margin-top: -20px;
+  margin-top: 380px;
   border: 1px 50% solid #FAF9FD;
 }
 
@@ -1442,5 +1446,10 @@
 #points {
   margin-left: 22px;
   margin-top: 12px;
+}
+
+#footer {
+  position: fixed;
+  bottom: 0px;
 }
 /*# sourceMappingURL=style.css.map */

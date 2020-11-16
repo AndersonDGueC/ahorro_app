@@ -1,3 +1,6 @@
+body{
+    height: 1930px;
+}
 #face_start{
     
  width:332px;   
@@ -1302,7 +1305,7 @@ justify-content: center;
 #add{
 position: absolute;
 margin-left:163px;
-margin-top: -20px;
+margin-top: 380px;
 border: 1px 50% solid #FAF9FD;
 }
 
@@ -1315,3 +1318,11 @@ margin-left: 28px;
 margin-left:22px;
 margin-top: 12px;
 }
+
+
+#footer{
+   
+    position:fixed;
+    bottom: 0px;
+}
+

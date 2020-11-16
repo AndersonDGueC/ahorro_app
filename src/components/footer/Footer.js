@@ -5,7 +5,7 @@ import {BiUserCircle} from 'react-icons/bi'
 import {IconContext} from 'react-icons'
 const Footer = () =>{
 return(
-    <section>
+    <section id="footer">
         <IconContext.Provider value={{size:'50px',color:'#54D1ED'}}>
                    <div id="add">
                 <AiFillPlusCircle/>
